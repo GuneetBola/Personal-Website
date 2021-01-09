@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {Button, Card} from 'react-bootstrap';
-import ResumePDF from '../assets/GuneetBolaResume.pdf'
+import ResumePDF from '../assets/GuneetBola_Resume.pdf'
 
 class Resume extends Component {
     onResumeClick() {
@@ -242,12 +242,12 @@ class Resume extends Component {
 
                 </div>
                 <br />
-                <div className="Extra-Cirricular ">
-                    <h4>Extra-Cirricular Activities</h4>
+                <div className="Extra-Curricular ">
+                    <h4>Extra-Curricular Activities</h4>
 
                     <div className="humanimpact">
                         <Card className="resumeCard">
-                            <Card.Header className="card-header">Extra-Cirricular Activities</Card.Header>
+                            <Card.Header className="card-header">Extra-Curricular Activities</Card.Header>
                             <Card.Body>
                                 <Card.Title>Human Impact: Vice-President</Card.Title>
                                 <Card.Text>
@@ -262,7 +262,7 @@ class Resume extends Component {
                     </div>
                     <div className="council">
                         <Card className="resumeCard">
-                            <Card.Header className="card-header">Extra-Cirricular Activities</Card.Header>
+                            <Card.Header className="card-header">Extra-Curricular Activities</Card.Header>
                             <Card.Body>
                                 <Card.Title>Brampton West Youth Council</Card.Title>
                                 <Card.Text>
@@ -277,7 +277,7 @@ class Resume extends Component {
                     </div>
                     <div className="hospital">
                         <Card className="resumeCard">
-                            <Card.Header className="card-header">Extra-Cirricular Activities</Card.Header>
+                            <Card.Header className="card-header">Extra-Curricular Activities</Card.Header>
                             <Card.Body>
                                 <Card.Title>Peel Memorial Hospital</Card.Title>
                                 <Card.Text>
@@ -292,7 +292,7 @@ class Resume extends Component {
                     </div>
                     <div className="deca">
                         <Card className="resumeCard">
-                            <Card.Header className="card-header">Extra-Cirricular Activities</Card.Header>
+                            <Card.Header className="card-header">Extra-Curricular Activities</Card.Header>
                             <Card.Body>
                                 <Card.Title>DECA/DECAU</Card.Title>
                                 <Card.Text>
@@ -306,7 +306,7 @@ class Resume extends Component {
                     </div>
                     <div className="swimming">
                         <Card className="resumeCard">
-                            <Card.Header className="card-header">Extra-Cirricular Activities</Card.Header>
+                            <Card.Header className="card-header">Extra-Curricular Activities</Card.Header>
                             <Card.Body>
                                 <Card.Title>Swim Team Member</Card.Title>
                                 <Card.Text>
