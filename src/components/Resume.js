@@ -116,6 +116,9 @@ class Resume extends Component {
                                     &nbsp;
                                     &nbsp;
                                     <Button variant='dark' href='https://www.youtube.com/watch?v=foM7h-vBahU&feature=youtu.be&ab_channel=AnjaliGupta'>Youtube Video</Button>
+                                    &nbsp;
+                                    &nbsp;
+                                    <Button variant='dark' href='https://github.com/GuneetBola/Climate-Bots'>GitHub</Button>
                                 </Card.Text>
                             </Card.Body>
                         </Card>
@@ -124,7 +127,7 @@ class Resume extends Component {
                         <Card className="resumeCard">
                             <Card.Header className="card-header">Projects</Card.Header>
                             <Card.Body>
-                                <Card.Title>Personal Wesbite</Card.Title>
+                                <Card.Title>Personal Website</Card.Title>
                                 <Card.Text>
                                     <ul>
                                         <li>This Website!</li>
@@ -134,10 +137,14 @@ class Resume extends Component {
                                     </ul>
                                 </Card.Text>
                                 <Card.Text>
+                                &nbsp;
+                                    &nbsp;
+                                    &nbsp;
+                                    <Button variant='dark' href='https://guneetbola.netlify.app/'>Go to Site</Button>
                                     &nbsp;
                                     &nbsp;
                                     &nbsp;
-                                    <Button variant='dark' href='https://github.com/GuneetBola/Stock-Trader-CS50'>GitHub</Button>
+                                    <Button variant='dark' href='https://github.com/GuneetBola/Personal-Website'>GitHub</Button>
                                 </Card.Text>
                             </Card.Body>
                         </Card>
@@ -213,7 +220,6 @@ class Resume extends Component {
                                         <li><em>12/2020-01/2021</em></li>
                                     </ul>
                                 </Card.Text>
-                                <Button variant="primary">Go somewhere</Button>
                             </Card.Body>
                         </Card>
                     </div>
@@ -230,7 +236,6 @@ class Resume extends Component {
                                         <li><em>Expected: 03/2021</em></li>
                                     </ul>
                                 </Card.Text>
-                                <Button variant="primary">Go somewhere</Button>
                             </Card.Body>
                         </Card>
                     </div>

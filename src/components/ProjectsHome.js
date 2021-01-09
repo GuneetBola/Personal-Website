@@ -2,6 +2,7 @@ import React from 'react';
 import PROJECTSHOME from '../data/projectsHome';
 import {CardGroup, Card, Button} from 'react-bootstrap';
 
+
 const Project = props => {
 
     const {title, image, description, link1, link2, button1, button2} = props.project;
