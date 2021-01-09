@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {Button, Card} from 'react-bootstrap';
-import ResumePDF from '../assets/resumenew.pdf'
+import ResumePDF from '../assets/GuneetBolaResume.pdf'
 
 class Resume extends Component {
     onResumeClick() {
