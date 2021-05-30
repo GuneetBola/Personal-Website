@@ -35,7 +35,7 @@ class Home extends Component {
                         <p>Below you can find some of my recent projects and to learn more about them, check out the projects page!</p>
                         <p>Feel free to contact me by scrolling to the bottom of the page and clicking on the icons.</p>
                         <hr />
-                        <p>Currently, I am a Honors Computer Science Student at the Univeristy of Waterloo and I am seeking Summer 2021 internships</p>
+                        <p>Currently, I am a Honors Computer Science Student at the Univeristy of Waterloo and I working as a Developer for WIL programs at the University of Waterloo. Also, I am activley seeking Summer 2022 internships.</p>
                     </Jumbotron>
                 </div>
                 
