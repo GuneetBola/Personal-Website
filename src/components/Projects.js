@@ -102,7 +102,6 @@ class Projects extends Component {
                 }
                 </div>
 
-                <CurrentProjects />
             </div>
 
         )
