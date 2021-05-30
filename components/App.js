@@ -22,7 +22,6 @@ class App extends Component{ // it is a subclass of the component class
               
                 <Switch>
                     <Route path="/" component={Home} exact />
-                    <Route path="/Contact" component={Contact} />
                     <Route path="/Projects" component={Projects} />
                 </Switch>
 
