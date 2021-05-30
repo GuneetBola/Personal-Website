@@ -13,7 +13,6 @@ class Navigation extends Component {
                     <Nav className="mr-auto">
                         <Link className="d-inline p-2 bg-light text-black" to="/">Home</Link>
                         <Link className="d-inline p-2 bg-light text-black" to="/Projects">Projects</Link>
-                        <Link className="d-inline p-2 bg-light text-black" to="/Resume">Resume</Link>
                         {/* <Link className="d-inline p-2 bg-light text-black" to="/Contact">Contact</Link> */}
                       
                     </Nav>
