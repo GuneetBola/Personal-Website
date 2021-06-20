@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import profile from '../assets/profile.jpg';
+import resume from '../assets/resume.pdf';
 import ProjectsHome from './ProjectsHome';
 import {Jumbotron} from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -36,6 +37,7 @@ class Home extends Component {
                         <p>Feel free to contact me by scrolling to the bottom of the page and clicking on the icons.</p>
                         <hr />
                         <p>Currently, I am a Honors Computer Science Student at the Univeristy of Waterloo and I working as a Developer for WIL programs at the University of Waterloo. Also, I am activley seeking Summer 2022 internships.</p>
+                        <button class="btn justifiy-content-centre" href={resume} rel="noopener" target="_blank">Resume</button>
                     </Jumbotron>
                 </div>
                 
