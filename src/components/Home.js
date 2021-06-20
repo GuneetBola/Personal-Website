@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import profile from '../assets/profile.jpg';
-import resume from '../assets/resume.pdf';
+import resume from '../assets/GuneetBolaResumeFinal.pdf';
 import ProjectsHome from './ProjectsHome';
 import {Jumbotron} from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
