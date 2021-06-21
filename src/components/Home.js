@@ -37,7 +37,6 @@ class Home extends Component {
                         <p>Feel free to contact me by scrolling to the bottom of the page and clicking on the icons.</p>
                         <hr />
                         <p>Currently, I am a Honors Computer Science Student at the Univeristy of Waterloo and I working as a Developer for WIL programs at the University of Waterloo. Also, I am activley seeking Summer 2022 internships.</p>
-                        <Button type="button" class="btn btn-dark" href={resume}>Resume</Button>
                     </Jumbotron>
                 </div>
                 
